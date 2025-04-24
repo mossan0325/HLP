@@ -2,3 +2,7 @@ langgraph
 openai
 python-dotenv
 tiktoken
+pandas
+scipy
+matplotlib
+langchain_openai
