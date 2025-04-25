@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Baseline workflow
-=================
-Patient  ↔  Nurse-only (no doctor GPT)
-
-• The nurse performs the mandatory intake questions.
-• Without asking any follow-ups, the nurse makes a best-guess diagnosis.
-All prompts, log strings, and comments are in ENGLISH.
-"""
 import os, operator
 from typing import TypedDict, Annotated, List, Optional, Dict, Any
 

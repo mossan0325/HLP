@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Agent workflow: Patient  ↔  Nurse  ↔  Doctor-GPT
-All prompts are now in ENGLISH.
-"""
 import os, operator
 from typing import TypedDict, Annotated, List, Optional, Dict, Any
 from dotenv import load_dotenv
